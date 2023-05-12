@@ -1,0 +1,101 @@
+Question,Question Id
+I am transitioning away from my previous CRM system and searching for user-friendly tools that facilitate the importation of my data.,10
+I am in the process of creating an email template with an HTML letterhead for an integration project involving an email service.,13
+How much can I change using point and click configuration,52
+My objective is to find the simplest method to generate a lead using email.,75
+Has anyone been able to solve this problem for large batches of records?,109
+"A custom controller is used by a custom VF component, and the controller defines an enum.",133
+Does anyone know of a way to collect Contacts that have not been assigned to a specific user and have not had any activity in the last 30 days?,187
+Is it possible to retrieve the current customer's edition using an API method?,216
+Has anyone resolved this dilemma? Does anyone have any recommendations for potential solutions to this predicament?,321
+"I want to iterate over the SET collection using an apex repeat, however when I save the VF page, a problem occurs. Is it true that SET is not allowed in apex:repeat?",540
+Do you have access to the lightning components for download?,100532
+Is there a way to use the controller variable set in a Javascript method?,20668
+I want a certain piece of javascript to be activated when I click an image icon on my VF page.,21042
+"In ExactTarget, I've created a double opt-in list and a related Web Collect form.",58032
+A letter I want to write can be sent by email or saved as a PDF.,5612
+I have to consume external REST API,126382
+"The flag's value was set after the method was called. However, the alert does not appear at all.",106220
+not able to access the enteredacc variable value in my other vf pages,103996
+Is there a better way to deliver files from salesforce over PEG encryption to SFTP?,106379
+What procedure should be followed to guarantee that page layouts are read-only?,92396
+I'm finding it difficult to calculate the check digit for a number with 14 digits.,79536
+I want to perform a SOQL query to find out the current status of a specific import job.,63608
+"I can query a note through SOQL if I expressly share it with myself through the UI (I am a SysAdmin but not a Note Creator), but I am unable to do so if I do not. Making a shared permission the default could be the answer.</p>\n'}",98395
+I'm just trying to put this code into production and its not letting me!,126032
+Is it possible to plan the job so that it deletes cases in that queue that are older than 30 days?,104554
+"""This organization isn\'t authorized to upload change sets to other organizations. For authorization, contact the deployment connections administrators on the organizations where you want to upload changes"".",112573
+How can I test the following controller and achieve a coverage rate higher than 0%?,39978
+"What is the best method to use localized labels inside lightning components, whether they come from Custom Labels or field configuration?",70748
+"What am I doing incorrectly, and where should I be posting?",68410
+"But we want to add a feature that, the manager can just reply to the email with the word ""Approve"" to approve etc.",25592
+"I may be able to reverse one individual transaction, but I'm not sure if I can reverse the entire batch process.",86205
+change to new user,36590
+I have to add a new record type inside of another record type.,96059
+error when lost focus from the second input filed,48856
+Could we create our own app that has read-only or write-access to the custom objects included in a third-party app that we install from the AppExchange?,100139
+"(Methods defined as TestMethod do not support Web service callouts, test skipped)",84037
+"I need to change some Account values, hence I must create a Batch Apex and call it from before the trigger.",24915
+What access controls are available to ensure that these portal users can only view their own Contact and User records?,9510
+"how to pass an ""sobjectType"" value with the parameters.",576
+"""AccountTriggerBefore: System.LimitException: Too many query rows: 50001""",57141
+transferring ExactTarget users that join on Magento websites,60801
+"how to use the ""like"" in the whereclause in fileexporter.",42606
+Can PK Chunking Header be used for an XML-based Query Job?,78256
+how to assign readonly permission on a single profile,69426
+Is it possible to extend the undeploy.xml to get rid of any additional layouts?,70702
+"The problem is that when I use the isdtp variable in the querystring, it takes off the oid querystring variable before it reaches MyPage. I want to transmit the opportunityID that I'm on to MyPage.",73768
+Are there advantages to utilizing an older or newer version?,7524
+"When attempting to delete a record from the pageblock table, I receive the error ""List index out of bound.""",21001
+change the name of the standard Sidebar Search,83752
+way to format the arrows Or just the background color and width?,89167
+"System.DmlException: Insert failed. First exception on row 0; first error: DUPLICATE_VALUE, duplicate value found: &lt;unknown&gt; duplicates value on record with id: &lt;unknown&gt;",32234
+I want to add a dropdown menu to the top right corner of the website so that visitors can select a different language for the survey.,37133
+Is it possible to use the Queueable interface to implement this kind of delay/start time approach? Or do chained Queueable jobs always begin processing right away?,68199
+"In addition to losing the salesforce and version logos in the upper right corner after adding the style sheet, the entire page was zoomed in, giving it a very condensed and closed appearance.",81053
+"I want to change a user's email address without sending them any kind of mail informing them, i.e.",72578
+Why don't I get any information when I delete a record in the Developer Console or Debug Logs?,30617
+A button that applies a quick update to a record in a linked list is something I want to add.,65390
+format a decimal number in an respecting the user\'s locale,21384
+[sfdeploy] Component Failures:\n [sfdeploy] 1. tabs/Allocation.tab -- Error: Value too long for field: Icon maximum length is:15\n [sfdeploy],101224
+What is the best approach to use the Apex/Sforce API to send an email after changing a lead's owner?,41670
+Which DOM components do you guys use to run Selenium tests?,16383
+Is it possible to save a merge field as a custom setting and then utilize that setting as a reference on a VisualForce page that employs the default controller?,125784
+Action method is called but Username is null in visualforce,21886
+Can we deploy to production with no run test parameter?,88287
+Illegal assignment from LIST&amp;lt;Database.DeleteResult&amp;gt; to LIST&amp;lt;Database.SaveResult&amp;gt;,54047
+"After choosing the stage from the pick-list and clicking save, is there a way to add a confirmation?",53271
+"how to display my pdf pages horizontally, not vertically.",60996
+How to post salesforce code in Blogger or Wordpress?,77364
+What does the approver field mean when a multi-step approval process is created and the approver is a need for each step?,28156
+I want to upload an image and insert it into a chat post. How can I make a code reference to this resource?,11121
+how to select the SubscriberKey and StoreName columns and update those columns in Table A which has the exact same columns,104708
+I want to get a list's entire subscriber list along with all of their associated properties.,67406
+"Is it possible to design a validation rule that forbids users from selecting ""Create New Account""?",57906
+"We must accept a few text inputs from the user and feed them to a REST service, which will return search results (a list of a custom class) based on the search criteria input supplied.",116096
+Is there any api that does the filtering itself based on name?,64284
+Is it possible to prevent regular users from @mentioning a public group in any post or comment?,103750
+Why is the controller not receiving the updated values from the Visualforce page?,101671
+I have to compare two date fields to see if one is bigger or less than the other.  Can this be calculated in a report without utilizing a formula or boolean field?,11601
+what does EL stand for?,14190
+"I want to know how many leads are generated every 10 minutes, and I want to receive an email notifying me if no leads have been generated in the last 10 minutes.",116694
+a technique to tell if a contact is becoming a lead and to exclude that situation from the logic.,122379
+"For instance, on Twitter, all I need to update my own account's status is the consumer_key and consumer_secret. Is working with salesforce done in the same manner?",45955
+Does an INACTIVE workflow rule still count toward this total if it is present?,34341
+I've read in the Salesforce literature that setting an email alert action in a workflow rule that applies to a task object is not permitted. Is there a method for doing that?,27787
+Field is not writable: ContactHistory.ContactId,66459
+"When a new Account is established, we want to check to see whether a contact already exists with the same email address; if so, we want to add the new Account ID to that contact to associate them; if not, we want to create a new Contact under that Account.",102227
+Is there any easy way to read from and write to a file in Salesforce?,49788
+"I'm attempting to use the standard record feed lightning component in my Napili template to display feeds for articles, however it never loads for knowledge articles. For unique objects, it functions correctly.",123305
+"On the case object, there is a custom lookup field, and I need to open the record in the subtab when I click the lookup.",27809
+I want to separate out the time portion of CreatedDate and put it in its own formula column.,42626
+Whats the URL for Knowledge Icon?,32287
+"I keep getting the ""Bad boolean filter input."" issue when deploying a change set.",60779
+"While updating the entry criteria for the approval process, I keep getting a time limit exceeded exception.",16309
+Unable to locate the error while using query activity in Marketing Cloud.,123162
+"Someone is aware of the location where SalesForce interprets the ""Created by"" and ""Modified By"" values when using incoming emails.",83570
+"I tried the Data Import Wizard, but the custom setting object is not listed among the wizard's objects.",36928
+"Given that every page is a unique Visualforce page and has a unique template, is there any advantage to choosing Community over Site.com?",97364
+"I've looked around, but I haven't come across any indication that anyone else uses the Salesforce weekly data export to build a SQL database; instead, most people utilize tools like DBAmp, Capstorm, Informatica, etc. Is attempting to build our SQL database from data exports a bad idea?",75701
+Is there a method other than batch apex for processing big amounts of data synchronously or asynchronously in salesforce?,63589
+"Similar to Email2Case, we must create custom object records when sending mail. Can we have a custom object record when sending an email instead of Email2Case creating a Case object?",105852
