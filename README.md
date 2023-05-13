@@ -1,4 +1,5 @@
 # Salesforce Search Engine
+Stack Exchange is a popular Q&A website where millions of users ask and answer questions on a wide range of topics. With a focus on questions and answers, the platform serves as a hub for individuals seeking to learn more about a particular subject or solve a problem. Each topic or subject area has its own section within the website, with numerous questions and answers available for users to peruse. While the Stack Exchange website is a valuable resource for users seeking information on a particular subject, it can be difficult for users to find accurate answers to their specific queries. To address this challenge, we developed a search engine that is specifically tailored to the Salesforce dataset that can accurately retrieve the most relevant questions and answers based on a user's query.
 
 
 ## Installation
